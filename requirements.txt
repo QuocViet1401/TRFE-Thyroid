@@ -1,0 +1,15 @@
+torch>=1.5
+torchvision>=0.6.1
+tensorboard>=2.0
+opencv-python
+numpy
+tqdm
+pillow
+scikit-learn
+ml_collections
+scipy
+matplotlib
+pandas
+medpy
+streamlit
+
