@@ -195,40 +195,13 @@ TRFE-Net/
 
 ---
 
-## 10. 🖥️ Giao diện demo
-
-<div align="center">
-    <img width="80%" src="sample_images/demo1.png" />
-    <p><i>Ảnh siêu âm tuyến giáp gốc</i></p>
-</div>
-
-<div align="center">
-    <img width="80%" src="sample_images/demo2.png" />
-    <p><i>Kết quả phân đoạn u nút tuyến giáp</i></p>
-</div>
-
----
-
-## 11. 📚 Tài liệu tham khảo
+## 10. 📚 Tài liệu tham khảo
 
 - ACL Framework: [https://github.com/chenghui-666/ACL](https://github.com/chenghui-666/ACL)
 - TN3K Dataset Paper: *Cần bổ sung link paper nếu có*
 - PyTorch Documentation: [https://pytorch.org/docs/](https://pytorch.org/docs/)
 
----
-
-## 12. 🤝 Đóng góp
-
-Mọi đóng góp đều được chào đón! Vui lòng:
-1. Fork dự án
-2. Tạo branch mới (`git checkout -b feature/AmazingFeature`)
-3. Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
-4. Push lên branch (`git push origin feature/AmazingFeature`)
-5. Mở Pull Request
-
----
-
-## 13. 📄 License
+## 11. 📄 License
 
 Dự án này được phân phối dưới giấy phép MIT License. Xem file `LICENSE` để biết thêm chi tiết.
 
