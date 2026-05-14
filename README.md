@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   XỬ LÝ ẢNH BẰNG YOLO
+   PHÁT HIỆN BẤT THƯỜNG Ở TUYẾN GIÁP
 </h2>
 <div align="center">
     <p align="center">
