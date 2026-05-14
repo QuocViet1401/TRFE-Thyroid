@@ -227,24 +227,3 @@ Mọi đóng góp đều được chào đón! Vui lòng:
 Dự án này được phân phối dưới giấy phép MIT License. Xem file `LICENSE` để biết thêm chi tiết.
 
 ---
-
-## 14. 📧 Liên hệ
-
-Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ:
-- Email: [your-email@example.com]
-- GitHub Issues: [Link to issues page]
-
----
-
-## 15. ⭐ Lời cảm ơn
-
-- Cảm ơn nhóm phát triển dataset TN3K
-- Cảm ơn cộng đồng PyTorch
-- Cảm ơn các bác sĩ và chuyên gia y khoa đã hỗ trợ
-
----
-
-<div align="center">
-    <p>⭐ Nếu dự án hữu ích, hãy cho chúng tôi một star!</p>
-    <p>Made with ❤️ for Medical AI</p>
-
